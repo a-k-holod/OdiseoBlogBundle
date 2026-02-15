@@ -5,7 +5,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "ewz/recaptcha-bundle": "^1.5",
         "friendsofsymfony/ckeditor-bundle": "^2.1",
         "knplabs/knp-gaufrette-bundle": "^0.9",
         "sylius/grid-bundle": "^1.6",
