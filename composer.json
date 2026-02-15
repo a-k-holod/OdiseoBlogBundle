@@ -1,5 +1,5 @@
 {
-    "name": "odiseoteam/blog-bundle",
+    "name": "a-k-holod/odiseoteam-blog-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for Symfony to generate blog content.",
     "license": "MIT",
@@ -10,7 +10,7 @@
         "knplabs/knp-gaufrette-bundle": "^0.5 || ^0.7 || ^0.8",
         "sylius/grid-bundle": "^1.6",
         "sylius/resource-bundle": "^1.9",
-        "symfony/framework-bundle": "^4.4 || ^5.2 || ^6.0",
+        "symfony/framework-bundle": "^4.4 || ^5.2 || ^6.0 || ^7.2"
         "symfony/orm-pack": "^1.0"
     },
     "require-dev": {
