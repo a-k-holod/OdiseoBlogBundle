@@ -5,13 +5,12 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "friendsofsymfony/ckeditor-bundle": "^2.1",
-        "knplabs/knp-gaufrette-bundle": "^0.9",
-        "sylius/grid-bundle": "^1.6",
-        "sylius/resource-bundle": "^1.9",
-        "symfony/framework-bundle": "^7.2",
-        "symfony/orm-pack": "^1.0"
+        "symfony/framework-bundle": "^6.4 || ^7.0",
+        "symfony/http-kernel": "^6.4 || ^7.0",
+        "symfony/dependency-injection": "^6.4 || ^7.0",
+        "doctrine/orm": "^2.15 || ^3.0"
     },
+
     "require-dev": {
         "behat/behat": "^3.6.1",
         "behat/mink-selenium2-driver": "^1.4",
